@@ -8,5 +8,5 @@
 ## RN
 
 [X] A transação pode ser do tipo crédito que somará ao valor total ou débito que subtrairá;  
-[ ] Deve ser possível identificar o usuário entre as requisições;  
-[ ] O usuário só pode visualizar/listar transações o qual ele criou.  
+[X] Deve ser possível identificar o usuário entre as requisições;  
+[X] O usuário só pode visualizar/listar transações o qual ele criou.  
